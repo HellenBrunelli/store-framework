@@ -35,7 +35,7 @@
   },
 
   "flex-layout.col#filter": {
-    "prop": {
+    "props": {
       "width":"20%"
     },
     "children": [
