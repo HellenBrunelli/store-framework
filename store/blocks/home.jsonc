@@ -4,7 +4,8 @@
       "rich-text",
       "info-card#button-right",
       "info-card#button-left",
-      "flex-layout.row"
+      "flex-layout.row",
+      "shelf"
     ]
   },
   "rich-text": {
@@ -47,7 +48,6 @@
       "flex-layout.col"
     ]
   },
-
  "info-card#rethink": {
     "props": {
       "imageUrl": "https://appliancetheme.vteximg.com.br/arquivos/utensilios-cozinha-min.png",
@@ -57,7 +57,6 @@
       "textPosition": "center"
     }
   },
-
   "rich-text#deletar": {
     "props": {
       "text": "I'll be deleted soon"
@@ -81,5 +80,4 @@
       "maxWidth": "100%"
     }
   }
-
 }
